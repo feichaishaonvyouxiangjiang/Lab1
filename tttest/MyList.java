@@ -1,4 +1,4 @@
-package test.tttest;
+﻿package test.tttest;
 
 import java.util.Random;
 import java.util.Scanner;
@@ -21,7 +21,7 @@ public class MyList{ //int链表
     public MyList(int sum){
       headList = new HeadNode[sum];
     }
-
+    
     public void setPathPerVer(int head , int tail ,int weight)
     {
       
